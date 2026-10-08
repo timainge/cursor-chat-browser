@@ -1,5 +1,7 @@
 # Cursor Chat Browser
 
+`/Users/tim/Library/Application Support/Cursor/User/workspaceStorage`
+
 A web application for browsing and managing chat histories from the Cursor editor's AI chat feature. View, search, and export your AI conversations in various formats.
 
 ## Features
